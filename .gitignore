@@ -66,3 +66,18 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# IDE settings
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS metadata
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Extra linker outputs
+*.exp
